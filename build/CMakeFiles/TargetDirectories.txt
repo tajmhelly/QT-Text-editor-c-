@@ -1,0 +1,5 @@
+/home/tahj/TextEditor/build/CMakeFiles/TextEditor.dir
+/home/tahj/TextEditor/build/CMakeFiles/edit_cache.dir
+/home/tahj/TextEditor/build/CMakeFiles/rebuild_cache.dir
+/home/tahj/TextEditor/build/CMakeFiles/TextEditor_autogen_timestamp_deps.dir
+/home/tahj/TextEditor/build/CMakeFiles/TextEditor_autogen.dir

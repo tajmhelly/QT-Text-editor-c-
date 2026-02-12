@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+6a725f32369e61ae736629765b4cf29c CMakeFiles/TextEditor_autogen
+6a725f32369e61ae736629765b4cf29c CMakeFiles/TextEditor_autogen_timestamp_deps
+006abb98fa2e532e200568cd68c09506 TextEditor_autogen/3YJK5W5UP7/qrc_resources.cpp
+0e3974917422c72f8f9b8c43e3e043d7 TextEditor_autogen/timestamp

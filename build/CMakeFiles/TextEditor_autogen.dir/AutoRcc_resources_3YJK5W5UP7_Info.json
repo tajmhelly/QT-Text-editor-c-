@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "/home/tahj/TextEditor/build/TextEditor_autogen",
+	"CMAKE_BINARY_DIR" : "/home/tahj/TextEditor/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/tahj/TextEditor/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/tahj/TextEditor",
+	"CMAKE_SOURCE_DIR" : "/home/tahj/TextEditor",
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/tahj/TextEditor/build/TextEditor_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/tahj/TextEditor/resources/icons/redo.png",
+		"/home/tahj/TextEditor/resources/icons/new.png",
+		"/home/tahj/TextEditor/resources/icons/replace.png",
+		"/home/tahj/TextEditor/resources/icons/save.png",
+		"/home/tahj/TextEditor/resources/icons/open.png",
+		"/home/tahj/TextEditor/resources/icons/find.png",
+		"/home/tahj/TextEditor/resources/icons/undo.png",
+		"/home/tahj/TextEditor/resources/icons/copy.png",
+		"/home/tahj/TextEditor/resources/icons/paste.png",
+		"/home/tahj/TextEditor/resources/icons/cut.png"
+	],
+	"LOCK_FILE" : "/home/tahj/TextEditor/build/CMakeFiles/TextEditor_autogen.dir/AutoRcc_resources_3YJK5W5UP7_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "3YJK5W5UP7",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/tahj/TextEditor/build/CMakeFiles/TextEditor_autogen.dir/AutoRcc_resources_3YJK5W5UP7_Used.txt",
+	"SOURCE" : "/home/tahj/TextEditor/resources/resources.qrc",
+	"VERBOSITY" : 0
+}
