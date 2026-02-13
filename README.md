@@ -192,6 +192,6 @@ Settings are stored in platform-specific locations:
 
 MIT License - See LICENSE file for details
 
-## Author
+##Authur 
+Oswald Achana
 
-Professional Development Team
